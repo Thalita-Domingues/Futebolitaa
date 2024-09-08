@@ -1,4 +1,4 @@
-## ## **Futebolitaa ⚽- Imersão Dev com Google Gemini**
+## **## Futebolitaa - Imersão Dev com Google Gemini ⚽**
 
 **O que faz essa aplicação?**
 
@@ -32,12 +32,8 @@ Adoramos receber a ajuda de outras pessoas! Se você quiser adicionar mais times
 
 Essa aplicação ainda está em desenvolvimento, então pode ter alguns detalhes para melhorar. Mas estamos trabalhando duro para deixar ela cada vez melhor!
 
-**Agradecimentos:**
-
-Agradecemos a todos que estão ajudando a construir esse projeto!
-
 **Vamos juntos fazer do Futebolitaa a maior comunidade de fãs de futebol da internet!** 
 
 **#Futebolitaa #Futebol #Programação #JavaScript #HTML #CSS**
 
-**Precisa de mais ajuda? Me diga!**
+---
